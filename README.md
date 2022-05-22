@@ -3,10 +3,10 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.cest.edu.br/">CEST</a>.
-- 💼 &nbsp; Estagiario de **TI** <a href="https://www.aged.ma.gov.br/">Aged/MA</a>
-- 🌱 &nbsp; Aprendendo no momento no **Front end (HTML5, CSS3, Java Srcipt) e Back-end (PHP)** e outras linguagens de Progamação.
+- 🕵️‍♀️ &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 👨‍🎓 &nbsp; Estudante **Sistemas de Informação** no <a href="https://www.cest.edu.br/">CEST</a>.
+- 👨‍🏫 &nbsp; Técnico de Suporte de **TI** N1 em <a href="https://www.aged.ma.gov.br/">Aged/MA</a>
+- 👨‍💻 &nbsp; Tecnologias de desenvolvimento: **Front end (HTML5, CSS3, Bootstrap, Java Script) Back-end (PHP)** e outras linguagens de Progamação.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -16,11 +16,14 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![POSTGRESQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 **Utilidades**
-
-  
+ 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -30,6 +33,10 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![PhpStorm](https://img.shields.io/badge/-Phpstorm-333333?style=flat&logo=phpstorm)
+![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
+![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm)
+![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans)
 
 <br/>
 
