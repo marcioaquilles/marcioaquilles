@@ -33,10 +33,10 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![PhpStorm](https://img.shields.io/badge/-Phpstorm-333333?style=flat&logo=phpstorm)
-![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
-![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm)
-![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans)
+  ![PhpStorm](https://img.shields.io/badge/-Phpstorm-333333?style=flat&logo=phpstorm)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
+  ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm)
+  ![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=1B6AC6&logo=Apache+NetBeans+IDE&logoColor=FFFFFF&label=)  
 
 <br/>
 
