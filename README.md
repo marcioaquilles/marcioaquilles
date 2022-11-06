@@ -4,7 +4,8 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🕵️‍♀️ &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 👨‍🎓 &nbsp; Estudante **Sistemas de Informação** no <a href="https://www.cest.edu.br/">CEST</a>.
+- 👨‍🎓 &nbsp; Estudante de **Sistemas de Informação** no <a href="https://www.cest.edu.br/">CEST</a>.
+- 👨‍🎓 &nbsp; Estudante de **Técnico em Desenvolvimento de Sistemas** no <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULMINAS</a>.
 - 👨‍🏫 &nbsp; Técnico de Suporte de **TI** N1 em <a href="https://www.aged.ma.gov.br/">Aged/MA</a>
 - 👨‍💻 &nbsp; Tecnologias de desenvolvimento: **Front end (HTML5, CSS3, Bootstrap, Java Script) Back-end (PHP)** e outras linguagens de Progamação.
 
