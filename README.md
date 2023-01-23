@@ -21,7 +21,9 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
   ![POSTGRESQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
 **Utilidades**
  
