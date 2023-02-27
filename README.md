@@ -7,7 +7,7 @@
 - 👨‍🎓 &nbsp; Estudante de **Sistemas de Informação** no <a href="https://www.cest.edu.br/">CEST</a>.
 - 👨‍🎓 &nbsp; Estudante de **Técnico em Desenvolvimento de Sistemas** no <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULMINAS</a>.
 - 👨‍🏫 &nbsp; Técnico de Suporte de **TI** N1 em <a href="https://www.aged.ma.gov.br/">Aged/MA</a>
-- 👨‍💻 &nbsp; Tecnologias de desenvolvimento: **Front end (HTML5, CSS3, Bootstrap, Java Script) Back-end (PHP)** e outras linguagens de Progamação.
+- 👨‍💻 &nbsp; Tecnologias de desenvolvimento: **Front end (HTML5, CSS3, Bootstrap, Java Script) Back-end (PHP, C#)** e outras linguagens de Progamação.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
