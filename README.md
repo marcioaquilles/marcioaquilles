@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🕵️‍♀️ &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 👨‍🎓 &nbsp; Esztudante **BICT** | <a href="https://www.cest.edu.br/">UFMA</a>.
+- 👨‍🎓 &nbsp; Estudante **BICT** | <a href="https://www.cest.edu.br/">UFMA</a>.
 - 👨‍🎓 &nbsp; Bacharel em **Sistemas de Informação** | <a href="https://www.cest.edu.br/">CEST</a>.
 - 👨‍🎓 &nbsp; **Técnico em Desenvolvimento de Sistemas** | <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULMINAS</a>.  
 - 👨‍💻 &nbsp; Tecnologias de desenvolvimento: **Front end (HTML5, CSS3 | Bootstrap, Java Script) Back-end (PHP | Laravel, C# | .NET)** e outras linguagens de Progamação.
